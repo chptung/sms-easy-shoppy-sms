@@ -41,6 +41,9 @@ carriers:
   kajeet:
     name: kajeet
     value: '@mobile.kajeet.net'
+  koodoo:
+    name: Koodoo
+    value: '@msg.telus.com'
   metropcs:
     name: Metro PCS
     value: '@mymetropcs.com'
